@@ -103,4 +103,5 @@ https://github.com/Leksa456789/practice-7/pull/1
 
 ### 4.3. Скриншот зеленого статуса проверки (Checks)
 
-(Вставьте скриншот блока «All checks have passed» из Pull Request.)
+<img width="725" height="210" alt="image" src="https://github.com/user-attachments/assets/68d96917-971f-4751-a3c8-6a86dba5e6cc" />
+
